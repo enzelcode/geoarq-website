@@ -190,11 +190,11 @@ export function Hero() {
           </p>
 
           <a
-            href="#sobre"
+            href="#servicos"
             className="hero-cta group mt-10 inline-flex w-fit items-center gap-3 rounded-full border border-cream/25 bg-cream/10 py-1.5 pl-6 pr-1.5 text-cream backdrop-blur-md transition-all duration-300 hover:-translate-y-0.5 hover:border-cream/45 hover:bg-cream/20 sm:mt-8"
           >
             <span className="text-sm font-medium tracking-tight">
-              Conheça nossa história
+              Conheça nossos serviços
             </span>
             <span className="inline-flex h-11 w-11 items-center justify-center rounded-full bg-cream text-forest-deep transition-transform duration-300 group-hover:rotate-45">
               <ArrowUpRight size={18} strokeWidth={2} />
